@@ -57,4 +57,3 @@
 
 
 * **Pete, Matt** - Goes down to terrace early to set up chairs and stay with them until ceremony
-* 
