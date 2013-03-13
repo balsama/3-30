@@ -25,6 +25,7 @@
 * Buy booze
 * Buy plastic cups, cocktail napkins, paper towels, bar supplies
 * Buy butcher paper and masking tape
+* Call Figaros
 
 #Booze#
 
@@ -43,3 +44,14 @@
 * Pick up equipment (Leave 10AM)
 * Set up office
 * Sweep (Call eddie for broom)/setup chairs
+
+#Tasks#
+
+* **Geoff** - Breaks down chairs at ceremony and puts them in my office at some point that night. I'll need to:
+    * Get him a parking pass for 1 international
+    * Get him a parking pass for north end
+
+* **TJ** - Help me set up Saturday afternoon. I can meet him there with my dad around 11. I'll need to:
+    * Let TJ know time to meet (11AM)
+
+* **Pete, Matt** - Goes down to terrace early to set up chairs and stay with them until ceremony
