@@ -24,6 +24,7 @@
 * Drop off shoes
 * Buy booze
 * Buy plastic cups, cocktail napkins, paper towels, bar supplies
+* Buy butcher paper and masking tape
 
 #Booze#
 
