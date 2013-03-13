@@ -33,7 +33,10 @@
 
 * 72 Dales ($120)
 * 48 Sam Adams ($80)
+* 24 Coors Light ($50)
 * 20 bottles red wine ($300)
+* 48 bottles of water ($50)
+($600)
 
 #Day of#
 
