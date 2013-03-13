@@ -53,8 +53,10 @@
     
     * Get him a parking pass for north end
 
+
 * **TJ** - Help me set up Saturday afternoon. I can meet him there with my dad around 11. I'll need to:
     
     * Let TJ know time to meet (11AM)
+
 
 * **Pete, Matt** - Goes down to terrace early to set up chairs and stay with them until ceremony
