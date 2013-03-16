@@ -4,7 +4,7 @@
 #ToDo#
 
 - [X] Call/reserve Be Our Guest
-- [ ] Call/reserve Kappy's
+- [X] Call/reserve Kappy's
 - [ ] Get cash
 - [ ] Buy parking vouchers
 - [X] ~~Reserve room for Hoyle?~~
@@ -13,6 +13,7 @@
 - [X] Buy plastic cups, cocktail napkins, paper towels, bar supplies
 - [X] Buy butcher paper and masking tape
 - [ ] Finalize Figaros
+- [X] Buy ring
 
 #Rentals#
 
