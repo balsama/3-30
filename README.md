@@ -7,7 +7,7 @@
 - [ ] Call/reserve Kappy's
 - [ ] Get cash
 - [ ] Buy parking vouchers
-- [ ] Reserve room for Hoyle?
+- [X] ~~Reserve room for Hoyle?~~
 - [ ] Get Suit
 - [ ] Drop off shoes
 - [ ] Buy booze
