@@ -30,7 +30,7 @@
 #Booze#
 
 **Kappy's**
-781.395.8888 ext 0
+781.395.8888 ext 3
 
 * 72 Dales ($120)
 * 48 Sam Adams ($80)
