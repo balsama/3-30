@@ -3,7 +3,7 @@
 
 #ToDo#
 
-- [ ] Call/reserve Be Our Guest
+- [X] Call/reserve Be Our Guest
 - [ ] Call/reserve Kappy's
 - [ ] Get cash
 - [ ] Buy parking vouchers
