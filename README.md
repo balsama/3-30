@@ -3,17 +3,17 @@
 
 #ToDo#
 
-* Call/reserve Be Our Guest
-* Call/reserve Kappy's
-* Get cash
-* Buy parking vouchers
-* Reserve room for Hoyle?
-* Get Suit
-* Drop off shoes
-* Buy booze
-* Buy plastic cups, cocktail napkins, paper towels, bar supplies
-* Buy butcher paper and masking tape
-* Call Figaros
+* [ ] Call/reserve Be Our Guest
+* [ ] Call/reserve Kappy's
+* [ ] Get cash
+* [ ] Buy parking vouchers
+* [ ] Reserve room for Hoyle?
+* [ ] Get Suit
+* [ ] Drop off shoes
+* [ ] Buy booze
+* [ ] Buy plastic cups, cocktail napkins, paper towels, bar supplies
+* [ ] Buy butcher paper and masking tape
+* [ ] Call Figaros
 
 #Rentals#
 
