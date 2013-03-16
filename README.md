@@ -10,10 +10,9 @@
 - [X] ~~Reserve room for Hoyle?~~
 - [ ] Get Suit
 - [ ] Drop off shoes
-- [ ] Buy booze
-- [ ] Buy plastic cups, cocktail napkins, paper towels, bar supplies
-- [ ] Buy butcher paper and masking tape
-- [ ] Call Figaros
+- [X] Buy plastic cups, cocktail napkins, paper towels, bar supplies
+- [X] Buy butcher paper and masking tape
+- [ ] Finalize Figaros
 
 #Rentals#
 
