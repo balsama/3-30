@@ -12,7 +12,7 @@
 - [ ] Drop off shoes
 - [X] Buy plastic cups, cocktail napkins, paper towels, bar supplies
 - [X] Buy butcher paper and masking tape
-- [ ] Finalize Figaros
+- [X] Finalize Figaros
 - [X] Buy ring
 
 #Rentals#
